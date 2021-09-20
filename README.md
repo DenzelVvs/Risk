@@ -1,4 +1,4 @@
-# BogoBot
+# Risk
 
 ### How to play
 Enter input on bottom left text field.  
